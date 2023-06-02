@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alberto Cuevas Ocegueda
 - 👀 I’m interested in Backend and Frontend Technologies
-- 🌱 I’m currently learning C# and Vue
-- 💞️ I’m looking to collaborate on any questions yall have
+- 🌱 I’m currently using C# (asp.net), PHP (Laravel) and JS (Vue)
 - 📫 reach me on my twitter @ef_turtle
 
 <!---
