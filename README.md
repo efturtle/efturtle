@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alberto Cuevas Ocegueda
 - 👀 I’m interested in Backend and Frontend Technologies
-- 🌱 I’m currently using C# (asp.net core), PHP (Laravel) and JS (Vue)
+- 🌱 I’m currently using PHP and Bash
 - 📫 reach me on my twitter @ef_turtle or email alberto.cuevas.ocegueda@gmail.com
 
 <!---
